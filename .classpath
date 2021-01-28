@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/ooxml-schemas-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/ooxml-security-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/org.apache.poi-4.0.1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/TP_2033_G17/jar_files/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
